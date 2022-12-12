@@ -1,0 +1,180 @@
+[
+  {
+    "id": 1,
+    "nombre": "product 1",
+    "descripcion": "descripcion 1,asdasdasd",
+    "precio_unitario": 5000,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url4"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/1_arrow-left.svg",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/1_arrow-down.svg"
+    ]
+  },
+  {
+    "id": 2,
+    "nombre": "product 2",
+    "descripcion": "descripcion 2",
+    "precio_unitario": 25000,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url5"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/2_arrow-right.svg"
+    ]
+  },
+  {
+    "id": 3,
+    "nombre": "product 3",
+    "descripcion": "description 2",
+    "precio_unitario": 40000,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url6"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/3_arrow-up.svg",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/3_ecommerce.svg",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/3_landing_page.svg"
+    ]
+  },
+  {
+    "id": 4,
+    "nombre": "product 4",
+    "descripcion": "descripcion 3",
+    "precio_unitario": 10000,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url7"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/4_platzi-fullstack.png"
+    ]
+  },
+  {
+    "id": 5,
+    "nombre": "product 5",
+    "descripcion": "descripcion 3",
+    "precio_unitario": 27500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url8"],
+    "imagenes": []
+  },
+  {
+    "id": 6,
+    "nombre": "product 6",
+    "descripcion": "descripcion 4",
+    "precio_unitario": 30500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url9"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/6_platzi-javascript.png",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/6_platzi-html_css.png"
+    ]
+  },
+  {
+    "id": 7,
+    "nombre": "product 7",
+    "descripcion": "description 3",
+    "precio_unitario": 33500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url10"],
+    "imagenes": [
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/7_platzi-react.svg",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/7_portfolio.svg",
+      "https://res.cloudinary.com/dxryc5jgr/image/upload/v1670789869/images/7_website.svg"
+    ]
+  },
+  {
+    "id": 8,
+    "nombre": "product 8",
+    "descripcion": "descripcion 4",
+    "precio_unitario": 36500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url11"],
+    "imagenes": []
+  },
+  {
+    "id": 9,
+    "nombre": "product 9",
+    "descripcion": "descripcion 5",
+    "precio_unitario": 39500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url12"],
+    "imagenes": []
+  },
+  {
+    "id": 10,
+    "nombre": "product 10",
+    "descripcion": "descripcion 6",
+    "precio_unitario": 42500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url13"],
+    "imagenes": []
+  },
+  {
+    "id": 11,
+    "nombre": "product 11",
+    "descripcion": "description 4",
+    "precio_unitario": 45500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url14"],
+    "imagenes": []
+  },
+  {
+    "id": 12,
+    "nombre": "product 12",
+    "descripcion": "descripcion 5",
+    "precio_unitario": 48500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url15"],
+    "imagenes": []
+  },
+  {
+    "id": 13,
+    "nombre": "product 13",
+    "descripcion": "descripcion 7",
+    "precio_unitario": 51500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url16"],
+    "imagenes": []
+  },
+  {
+    "id": 14,
+    "nombre": "product 14",
+    "descripcion": "descripcion 8",
+    "precio_unitario": 54500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url17"],
+    "imagenes": []
+  },
+  {
+    "id": 15,
+    "nombre": "product 15",
+    "descripcion": "description 5",
+    "precio_unitario": 57500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url18"],
+    "imagenes": []
+  },
+  {
+    "id": 16,
+    "nombre": "product 16",
+    "descripcion": "descripcion 6",
+    "precio_unitario": 60500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url19"],
+    "imagenes": []
+  },
+  {
+    "id": 17,
+    "nombre": "product 17",
+    "descripcion": "descripcion 9",
+    "precio_unitario": 63500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url20"],
+    "imagenes": []
+  },
+  {
+    "id": 18,
+    "nombre": "product 18",
+    "descripcion": "descripcion 10",
+    "precio_unitario": 66500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url21"],
+    "imagenes": []
+  },
+  {
+    "id": 19,
+    "nombre": "product 19",
+    "descripcion": "description 6",
+    "precio_unitario": 69500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url22"],
+    "imagenes": []
+  },
+  {
+    "id": 20,
+    "nombre": "product 20",
+    "descripcion": "descripcion 7",
+    "precio_unitario": 72500,
+    "videos": ["http://url1", "http://url2", "http://url3", "http://url23"],
+    "imagenes": []
+  }
+]
