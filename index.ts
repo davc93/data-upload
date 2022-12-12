@@ -45,5 +45,5 @@ const createFullJson =  async (csvPath:any,filesPath:any,cloudinaryFolder:string
   fs.writeFileSync(outputFile,JSON.stringify(arrCsv))
 
 }
-
-createFullJson('/home/dvcasanova/Documentos/Python/csv-to-json/outputs/catalogo.json','/home/dvcasanova/Documentos/WebDevelopment/Backends/cloudinary-api/images/test','catalogo','/home/dvcasanova/Documentos/WebDevelopment/Backends/cloudinary-api/output.json')
+// use full path
+// createFullJson()
